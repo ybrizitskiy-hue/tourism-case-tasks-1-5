@@ -1,0 +1,4 @@
+[database]
+server=localhost
+database=TourismWeb
+windows_auth=1
